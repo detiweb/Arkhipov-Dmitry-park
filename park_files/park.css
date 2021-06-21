@@ -1,0 +1,79 @@
+h1{
+	text-align: center;
+	text-decoration: underline;
+	color: orange;
+
+}
+body{
+	background: #E4E8E6;
+	font-family: 'Comfortaa', cursive;
+}
+header{
+	background: #BA54AB;
+}
+.wiki{
+	height: 100px;
+	width: 100px;
+}
+footer{
+	background: grey;
+}
+nav{
+	width: 30%;
+}
+a{
+	text-decoration: none;
+	text-align: center;
+	color: yellow
+}
+.button{
+	background: white;
+}
+.button:hover{
+	background: yellow;
+}
+
+.park{
+	width: 400px;
+	height: 250px;
+}
+.card{
+	border: 10px solid #27B98D;
+	width: 400px;
+	display: inline-block;
+}
+.text{
+	width: 60%;
+	display: inline-block;
+}
+button{
+	text-decoration: none;
+	color: black;
+	border: 5px solid cyan;
+	height: 40%;
+}
+.but{
+	color: black;
+	text-decoration: none;
+}
+.card1{
+	border: 10px solid #27B98D;
+	width: 400px;
+	display: inline-block;
+	margin-left: 5%;
+}
+.vid{
+	width: 400px;
+}
+.card2{
+	border: 10px solid #27B98D;
+	width: 400px;
+	display: inline-block;
+	margin-left: 5%;
+}
+.attraktion{
+	width: 400px;
+}
+.need{
+	margin-right:20px;
+}
